@@ -1,17 +1,5 @@
 # Changelog
 
-## [Unreleased](https://github.com/jrnl-org/jrnl/)
-
-[Full Changelog](https://github.com/jrnl-org/jrnl/compare/v2.3...HEAD)
-
-**Build:**
-
-- Update travis caching to speed up builds [\#871](https://github.com/jrnl-org/jrnl/pull/871) ([wren](https://github.com/wren))
-
-**Updated documentation:**
-
-- Update and reorganize CONTRIBUTING [\#885](https://github.com/jrnl-org/jrnl/pull/885) ([micahellison](https://github.com/micahellison))
-
 ## [v2.3](https://pypi.org/project/jrnl/v2.3/) (2020-03-21)
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v2.3-beta...v2.3)
